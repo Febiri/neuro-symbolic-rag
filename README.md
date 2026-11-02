@@ -198,19 +198,3 @@ tests/test_report_generator.py ...                                       [100%]
 ```
 
 ---
-
-## 📢 Ready-to-Post LinkedIn Announcement Template
-
-> 🚀 **Excited to open-source the upgraded Neuro-Symbolic Agentic RAG Engine!**
-> 
-> Standard LLM-based RAG pipelines frequently suffer from hallucinations, relational drift, and citation fabrications. We tackled this by building a multi-agent framework combining neural retrieval with deterministic symbolic logic verification.
-> 
-> **4 Killer Upgrades:**
-> 1️⃣ **Live arXiv & PubMed Integration:** Type any scientific query to dynamically retrieve preprints/abstracts and auto-build knowledge graphs with zero manual copy-pasting.
-> 2️⃣ **Visual Interactive Knowledge Graph Explorer:** A hardware-accelerated Vis.js canvas to zoom, pan, click, and inspect cross-paper concept bridges.
-> 3️⃣ **Hallucination Red-Teaming Mode:** Stress-test the pipeline by injecting false or contradictory statements—the Symbolic Verifier catches the lies in real time with an automated red alert audit.
-> 4️⃣ **One-Click Research Brief & Portfolio Badge Export:** Generates executive summary PDFs and GitHub certification badges for papers and portfolios.
-> 
-> 🔗 Code, architecture diagrams, and quickstart: [Insert GitHub Link]
-> 
-> #ArtificialIntelligence #MachineLearning #NeuroSymbolic #LLM #RAG #KnowledgeGraphs #FastAPI #Streamlit #OpenSource
